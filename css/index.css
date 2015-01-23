@@ -1,0 +1,19 @@
+/* This is a CSS comment */
+html {
+  background-color: #0ef2c4;
+  /*
+  Black: #000000
+  White: #ffffff
+  Red: #ff0000
+  Blue: #0000ff
+  */
+  color: #fff;
+
+}
+
+h1 {
+  color: #000;
+  font-size: 5rem;
+  font-weight: normal;
+  font- Helvetica;
+}
