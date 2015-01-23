@@ -11,9 +11,31 @@ html {
 
 }
 
-h1 {
-  color: #000;
+h1,h2 {
+  color: #fff;
   font-size: 5rem;
   font-weight: normal;
-  font- Helvetica;
+  line-height: 1;
+  text-shadow: 2px -5px 10px black;
+  font-family: 'Bangers', cursive;
+}
+
+p {
+  font-style: italic; /* italic, normal */
+  text-decoration: underline; /* underline, none, line-through */
+  text-align: center; /* left, center, right, justify */
+  font-family: Arial,sans-serif;
+}
+
+ol {
+  list-style-type: disc; /* decimal, circle, lower-alpha, lower-roman, upper-alpha,
+  upper-roman, square, disc, none */
+}
+
+a {
+  color: #000;
+}
+
+a:hover {
+  color:blue;
 }
